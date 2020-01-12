@@ -60,25 +60,23 @@ An example an output from my program I was
 able to check the parent group order by visiting the website
 
 ECC ENCRYPTION KEY GENERATION
-(1) Key Generation
-(2) Remnants of Schoof
-(3) Print Keys to File (only if ran
-keygen)
-(4) Quit
+1. Key Generation
+2. Remnants of Schoof
+3. Print Keys to File (only if ran keygen)
+4. Quit
 
-1
-Prime p = 13
-a = 2
+Prime p = 13 \
+a = 2 \
 b = 3
 
-Parent group order N = 18
-Random subgroup order n = 3
-Cofactor N / n = 6
+Parent group order N = 18 \
+Random subgroup order n = 3 \
+Cofactor N / n = 6 \
 Random point on curve: X = 3 Y = 6
 Private is d in which H = dG
 
 Private Key = 2
 
-Public Key is point H
-X = 3
+Public Key is point H \
+X = 3 \
 Y = 7
