@@ -59,7 +59,7 @@ high degree.
 An example an output from my program I was
 able to check the parent group order by visiting the website
 
-ECC ENCRYPTION KEY GENERATION
+## ECC ENCRYPTION KEY GENERATION
 1. Key Generation
 2. Remnants of Schoof
 3. Print Keys to File (only if ran keygen)
